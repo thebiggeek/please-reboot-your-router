@@ -36,6 +36,9 @@ RFC **9011–9020** are currently in development and will be published soon.
 | RFC 9008 | Shared Bandwidth Justification Model (SBJM) | Neighbors using your bandwidth |
 | RFC 9009 | Speedtest Server Selection Manipulation Protocol (SSSMP) | Only ISP server shows full speed |
 | RFC 9010 | Static IP Allocation Resistance Protocol (SIARP) | IPv4 exhausted forever |
+| RFC 9011 | Dynamic IP Stability Enhancement Protocol (DISEP) | Static IP causing fluctuation |
+| RFC 9012 | Router Fatigue Recovery Protocol (RFRP) | Router needs emotional rest |
+| RFC 9013 | Backend Visibility Assurance Protocol (BVAP) | Backend green overrides reality |
 
 ---
 
@@ -45,9 +48,6 @@ The following documents are currently in drafting phase:
 
 | RFC | Status |
 |-----|--------|
-| RFC 9011 | Draft |
-| RFC 9012 | Draft |
-| RFC 9013 | Draft |
 | RFC 9014 | Draft |
 | RFC 9015 | Draft |
 | RFC 9016 | Draft |
@@ -93,6 +93,15 @@ RFC 9008  Shared bandwidth explanation
 RFC 9009  Use ISP speedtest server
         |
         v
+RFC 9011  Remove static IP
+        |
+        v
+RFC 9012  Router needs rest
+        |
+        v
+RFC 9013  Backend showing green
+        |
+        v
 RFC 9007  Planned maintenance
         |
         v
@@ -115,6 +124,9 @@ RFC-9007-MWRNP.md
 RFC-9008-SBJM.md
 RFC-9009-SSSMP.md
 RFC-9010-SIARP.md
+RFC-9011-DISEP.md
+RFC-9012-RFRP.md
+RFC-9013-BVAP.md
 ```
 
 ---
@@ -128,6 +140,9 @@ An ISP is considered fully compliant with this RFC suite if:
 - Monitoring always shows green  
 - Speedtests only work on ISP servers  
 - Static IPs are unavailable  
+- Static IPs blamed for instability  
+- Routers require emotional recovery  
+- Backend dashboards override reality  
 - Chatbots replace human support  
 - Outages become maintenance  
 - Upstream is blamed  
