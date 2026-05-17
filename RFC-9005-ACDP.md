@@ -8,6 +8,17 @@
 
 ---
 
+## Notice
+
+This document is satire inspired by historical humorous RFCs and
+does not describe real Internet standards, protocols, operational
+requirements, or engineering best practices.
+
+Any resemblance to actual ISP operational behavior is entirely
+coincidental, statistically inevitable, and repeatedly observed.
+
+---
+
 ## Abstract
 
 This document defines the Automated Chatbot Deflection Protocol (ACDP), a
@@ -274,7 +285,22 @@ ACDP improves operational safety by preventing:
 
 ---
 
-## 16. References
+## 16. Author's Address
+
+Gagandeep Sapra
+Proud Self-Proclaimed Member of IOFF
+Temporary Human Occupancy Unit
+Node Location: Third Gola from Suraj
+Milky Way Transit Exchange
+127.0.0.1, ::1
+X: @thebiggeek
+
+Preferred Contact Method:
+Shout "Bhai WiFi nahi chal raha" toward nearest ONT.
+
+---
+
+## References
 
 RFC 9000 — Customer Null Routing Protocol  
 RFC 9001 — Private IP Throughput Scaling Protocol  

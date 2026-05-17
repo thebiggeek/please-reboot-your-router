@@ -8,6 +8,18 @@ Updates: Nothing
 
 ---
 
+## Notice
+
+This document is satire inspired by historical humorous RFCs and
+does not describe real Internet standards, protocols, operational
+requirements, or engineering best practices.
+
+Any resemblance to actual ISP operational behavior is entirely
+coincidental, statistically inevitable, and repeatedly observed.
+
+---
+
+
 ## Abstract
 
 This document defines the Customer Null Routing Protocol (CNRP), a standardized
@@ -256,7 +268,22 @@ CNRP improves operational safety by preventing:
 
 ---
 
-## 14. References
+## 14. Author's Address
+
+Gagandeep Sapra
+Proud Self-Proclaimed Member of IOFF
+Temporary Human Occupancy Unit
+Node Location: Third Gola from Suraj
+Milky Way Transit Exchange
+127.0.0.1, ::1
+X: @thebiggeek
+
+Preferred Contact Method:
+Shout "Bhai WiFi nahi chal raha" toward nearest ONT.
+
+---
+
+## References
 
 RFC 1925 — The Twelve Networking Truths  
 RFC 4638 — PPPoE MTU  

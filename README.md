@@ -11,6 +11,26 @@ Additional documents are continuously being drafted based on newly observed ISP 
 
 ---
 
+# Historical Inspiration
+
+This repository follows the long-standing engineering tradition of humorous,
+satirical, and non-standard RFCs historically circulated within the Internet
+community.
+
+## Inspirations include:
+
+RFC 1149 — IP over Avian Carriers
+RFC 2321 — RITA: The Reliable Internetwork Troubleshooting Agent
+RFC 2325 — Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)
+RFC 2795 — The Infinite Monkey Protocol Suite
+RFC 1882 — The 12-Days of Technology Before Christmas
+
+Like these historical documents, the RFCs in this repository are satire written
+in standards-track formatting style and are intended purely for humor,
+commentary, and collective therapeutic processing by network engineers.
+
+---
+
 # RFC Index
 
 ## Core Customer Handling Protocols
@@ -40,12 +60,13 @@ Additional documents are continuously being drafted based on newly observed ISP 
 
 ## Advanced Customer Deflection Frameworks
 
-| RFC      | Title                                             | Description                                |
-| -------- | ------------------------------------------------- | ------------------------------------------ |
-| RFC 9011 | Dynamic IP Stability Enhancement Protocol (DISEP) | Static IP causing fluctuation              |
-| RFC 9012 | Router Fatigue Recovery Protocol (RFRP)           | Router requires emotional recovery         |
-| RFC 9013 | Backend Visibility Assurance Protocol (BVAP)      | Backend green overrides reality            |
-| RFC 9014 | Customer Knowledge Inversion Protocol (CKIP)      | Customer automatically classified as ID10T |
+| RFC      | Title                                                               | Description                                     |
+| -------- | ------------------------------------------------------------------- | ----------------------------------------------- |
+| RFC 9011 | Dynamic IP Stability Enhancement Protocol (DISEP)                   | Static IP causing fluctuation                   |
+| RFC 9012 | Router Fatigue Recovery Protocol (RFRP)                             | Router requires emotional recovery              |
+| RFC 9013 | Backend Visibility Assurance Protocol (BVAP)                        | Backend green overrides reality                 |
+| RFC 9014 | Customer Knowledge Inversion Protocol (CKIP)                        | Customer automatically classified as ID10T      |
+| RFC 9015 | Jugaad Universal Gateway Adjustment & Adaptation Directive (JUGAAD) | Temporary fixes become permanent infrastructure |
 
 ---
 
@@ -55,7 +76,6 @@ The following documents are currently in drafting phase and scheduled for staged
 
 | RFC      | Title                                                                              | Status |
 | -------- | ---------------------------------------------------------------------------------- | ------ |
-| RFC 9015 | Jugaad Universal Gateway Adjustment & Adaptation Directive (JUGAAD)                | Draft  |
 | RFC 9016 | Connection Handling & Adaptive Load Transfer Architecture (CHALTA)                 | Draft  |
 | RFC 9017 | Gateway Analysis & Diagnostic Handling Architecture (GADHA)                        | Draft  |
 | RFC 9018 | Systematic Escalation, Transfer, Tracking & Issue Neutralization Gateway (SETTING) | Draft  |
@@ -231,6 +251,21 @@ RFC 1925 — The Twelve Networking Truths
 RFC 1149 — IP over Avian Carriers
 RFC 2321 — RITA
 RFC 2549 — Avian Carriers with QoS
+
+---
+
+## Author's Address
+
+Gagandeep Sapra
+Proud Self-Proclaimed Member of IOFF
+Temporary Human Occupancy Unit
+Node Location: Third Gola from Suraj
+Milky Way Transit Exchange
+127.0.0.1, ::1
+X: @thebiggeek
+
+Preferred Contact Method:
+Shout "Bhai WiFi nahi chal raha" toward nearest ONT.
 
 ---
 
